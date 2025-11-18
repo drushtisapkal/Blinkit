@@ -6,7 +6,7 @@ This project focuses on analyzing Blinkit's sales and grocery data. The analysis
 
 The goal of this project is to provide an overview of Blinkit's sales performance, product distribution, and customer behavior. The project includes interactive dashboards, reports, and insights that were generated using different tools.
 
-# Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Python**: For data cleaning, manipulation, and analysis
 * **Power BI**: For creating interactive dashboards and visualizations
@@ -124,5 +124,3 @@ A visual representation of the Blinkit grocery data was also created to understa
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
